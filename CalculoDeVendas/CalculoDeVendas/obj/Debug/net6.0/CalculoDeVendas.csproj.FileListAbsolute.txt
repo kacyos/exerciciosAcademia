@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\CalculoDeVendas.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\CalculoDeVendas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\CalculoDeVendas.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\CalculoDeVendas.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\CalculoDeVendas.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\bin\Debug\net6.0\CalculoDeVendas.exe
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\bin\Debug\net6.0\CalculoDeVendas.deps.json
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\bin\Debug\net6.0\CalculoDeVendas.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\bin\Debug\net6.0\CalculoDeVendas.dll
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\bin\Debug\net6.0\CalculoDeVendas.pdb
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\CalculoDeVendas.dll
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\refint\CalculoDeVendas.dll
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\CalculoDeVendas.pdb
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\CalculoDeVendas.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\CalculoDeVendas\CalculoDeVendas\obj\Debug\net6.0\ref\CalculoDeVendas.dll
