@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\bin\Debug\net6.0\ConversorCelsiusFahrenheit.exe
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\bin\Debug\net6.0\ConversorCelsiusFahrenheit.deps.json
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\bin\Debug\net6.0\ConversorCelsiusFahrenheit.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\bin\Debug\net6.0\ConversorCelsiusFahrenheit.dll
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\bin\Debug\net6.0\ConversorCelsiusFahrenheit.pdb
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ConversorCelsiusFahrenheit.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ConversorCelsiusFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ConversorCelsiusFahrenheit.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ConversorCelsiusFahrenheit.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ConversorCelsiusFahrenheit.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ConversorCelsiusFahrenheit.dll
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\refint\ConversorCelsiusFahrenheit.dll
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ConversorCelsiusFahrenheit.pdb
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ConversorCelsiusFahrenheit.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\ConversorCelsiusFahrenheit\ConversorCelsiusFahrenheit\obj\Debug\net6.0\ref\ConversorCelsiusFahrenheit.dll
