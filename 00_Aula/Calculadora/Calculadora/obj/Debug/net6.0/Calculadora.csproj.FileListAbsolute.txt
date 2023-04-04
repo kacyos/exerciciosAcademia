@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

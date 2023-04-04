@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\bin\Debug\net6.0\VerificarIdadeMaiorouMenor.exe
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\bin\Debug\net6.0\VerificarIdadeMaiorouMenor.deps.json
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\bin\Debug\net6.0\VerificarIdadeMaiorouMenor.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\bin\Debug\net6.0\VerificarIdadeMaiorouMenor.dll
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\bin\Debug\net6.0\VerificarIdadeMaiorouMenor.pdb
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\VerificarIdadeMaiorouMenor.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\VerificarIdadeMaiorouMenor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\VerificarIdadeMaiorouMenor.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\VerificarIdadeMaiorouMenor.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\VerificarIdadeMaiorouMenor.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\VerificarIdadeMaiorouMenor.dll
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\refint\VerificarIdadeMaiorouMenor.dll
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\VerificarIdadeMaiorouMenor.pdb
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\VerificarIdadeMaiorouMenor.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\VerificarIdadeMaiorouMenor\VerificarIdadeMaiorouMenor\obj\Debug\net6.0\ref\VerificarIdadeMaiorouMenor.dll
