@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\bin\Debug\net6.0\10ExibirMaisNovoEMaisAlto.exe
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\bin\Debug\net6.0\10ExibirMaisNovoEMaisAlto.deps.json
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\bin\Debug\net6.0\10ExibirMaisNovoEMaisAlto.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\bin\Debug\net6.0\10ExibirMaisNovoEMaisAlto.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\bin\Debug\net6.0\10ExibirMaisNovoEMaisAlto.pdb
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\10ExibirMaisNovoEMaisAlto.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\10ExibirMaisNovoEMaisAlto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\10ExibirMaisNovoEMaisAlto.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\10ExibirMaisNovoEMaisAlto.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\10ExibirMaisNovoEMaisAlto.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\10ExibirMaisNovoEMaisAlto.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\refint\10ExibirMaisNovoEMaisAlto.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\10ExibirMaisNovoEMaisAlto.pdb
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\10ExibirMaisNovoEMaisAlto.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\10ExibirMaisNovoEMaisAlto\10ExibirMaisNovoEMaisAlto\obj\Debug\net6.0\ref\10ExibirMaisNovoEMaisAlto.dll
