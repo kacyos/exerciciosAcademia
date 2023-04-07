@@ -17,7 +17,7 @@
             double acrescimo = 0;
 
             if (totalDeVendas > 5000) {
-                acrescimo = (totalDeVendas * 0.10) / 100;                
+                aacrescimo = (totalDeVendas * 0.10) / 100;                
             } else if (totalDeVendas > 1000) {
                 acrescimo = totalDeVendas * 0.07;
             } else {
