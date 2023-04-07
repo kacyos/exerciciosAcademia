@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\bin\Debug\net6.0\08CalculoDeSalario.exe
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\bin\Debug\net6.0\08CalculoDeSalario.deps.json
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\bin\Debug\net6.0\08CalculoDeSalario.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\bin\Debug\net6.0\08CalculoDeSalario.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\bin\Debug\net6.0\08CalculoDeSalario.pdb
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\08CalculoDeSalario.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\08CalculoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\08CalculoDeSalario.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\08CalculoDeSalario.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\08CalculoDeSalario.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\08CalculoDeSalario.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\refint\08CalculoDeSalario.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\08CalculoDeSalario.pdb
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\08CalculoDeSalario.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\08CalculoDeSalario\08CalculoDeSalario\obj\Debug\net6.0\ref\08CalculoDeSalario.dll
