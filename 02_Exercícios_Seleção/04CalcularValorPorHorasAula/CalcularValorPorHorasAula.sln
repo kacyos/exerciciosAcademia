@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularValorPorHorasAula", "CalcularValorPorHorasAula\CalcularValorPorHorasAula.csproj", "{55A36941-2680-4B96-9DE8-EB62DD6C50C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A36941-2680-4B96-9DE8-EB62DD6C50C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A36941-2680-4B96-9DE8-EB62DD6C50C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A36941-2680-4B96-9DE8-EB62DD6C50C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A36941-2680-4B96-9DE8-EB62DD6C50C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04C8AF9-09B2-4B7E-82F4-254149D35F6D}
+	EndGlobalSection
+EndGlobal

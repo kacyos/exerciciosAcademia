@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\10GerenciarSaques.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\10GerenciarSaques.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\10GerenciarSaques.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\10GerenciarSaques.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\10GerenciarSaques.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\bin\Debug\net6.0\10GerenciarSaques.exe
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\bin\Debug\net6.0\10GerenciarSaques.deps.json
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\bin\Debug\net6.0\10GerenciarSaques.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\bin\Debug\net6.0\10GerenciarSaques.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\bin\Debug\net6.0\10GerenciarSaques.pdb
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\10GerenciarSaques.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\refint\10GerenciarSaques.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\10GerenciarSaques.pdb
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\10GerenciarSaques.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\10GerenciarSaques\10GerenciarSaques\obj\Debug\net6.0\ref\10GerenciarSaques.dll

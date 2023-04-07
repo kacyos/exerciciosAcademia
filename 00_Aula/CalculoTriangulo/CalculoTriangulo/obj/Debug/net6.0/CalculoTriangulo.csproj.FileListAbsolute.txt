@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\bin\Debug\net6.0\CalculoTriangulo.exe
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\bin\Debug\net6.0\CalculoTriangulo.deps.json
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\bin\Debug\net6.0\CalculoTriangulo.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\bin\Debug\net6.0\CalculoTriangulo.dll
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\bin\Debug\net6.0\CalculoTriangulo.pdb
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\CalculoTriangulo.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\CalculoTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\CalculoTriangulo.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\CalculoTriangulo.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\CalculoTriangulo.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\CalculoTriangulo.dll
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\refint\CalculoTriangulo.dll
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\CalculoTriangulo.pdb
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\CalculoTriangulo.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoTriangulo\CalculoTriangulo\obj\Debug\net6.0\ref\CalculoTriangulo.dll

@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\bin\Debug\net6.0\02ParOuImpar.exe
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\bin\Debug\net6.0\02ParOuImpar.deps.json
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\bin\Debug\net6.0\02ParOuImpar.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\bin\Debug\net6.0\02ParOuImpar.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\bin\Debug\net6.0\02ParOuImpar.pdb
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\02ParOuImpar.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\02ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\02ParOuImpar.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\02ParOuImpar.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\02ParOuImpar.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\02ParOuImpar.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\refint\02ParOuImpar.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\02ParOuImpar.pdb
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\02ParOuImpar.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\02ParOuImpar\02ParOuImpar\obj\Debug\net6.0\ref\02ParOuImpar.dll

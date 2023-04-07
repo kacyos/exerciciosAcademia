@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\bin\Debug\net6.0\CalculoDeAumetoDeSalario.exe
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\bin\Debug\net6.0\CalculoDeAumetoDeSalario.deps.json
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\bin\Debug\net6.0\CalculoDeAumetoDeSalario.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\bin\Debug\net6.0\CalculoDeAumetoDeSalario.dll
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\bin\Debug\net6.0\CalculoDeAumetoDeSalario.pdb
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\CalculoDeAumetoDeSalario.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\CalculoDeAumetoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\CalculoDeAumetoDeSalario.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\CalculoDeAumetoDeSalario.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\CalculoDeAumetoDeSalario.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\CalculoDeAumetoDeSalario.dll
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\refint\CalculoDeAumetoDeSalario.dll
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\CalculoDeAumetoDeSalario.pdb
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\CalculoDeAumetoDeSalario.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\00_Aula\CalculoDeAumetoDeSalario\CalculoDeAumetoDeSalario\obj\Debug\net6.0\ref\CalculoDeAumetoDeSalario.dll

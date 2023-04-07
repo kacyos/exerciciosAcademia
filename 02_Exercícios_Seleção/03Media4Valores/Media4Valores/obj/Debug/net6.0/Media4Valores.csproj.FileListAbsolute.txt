@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\Media4Valores.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\Media4Valores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\Media4Valores.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\Media4Valores.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\Media4Valores.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\bin\Debug\net6.0\Media4Valores.exe
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\bin\Debug\net6.0\Media4Valores.deps.json
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\bin\Debug\net6.0\Media4Valores.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\bin\Debug\net6.0\Media4Valores.dll
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\bin\Debug\net6.0\Media4Valores.pdb
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\Media4Valores.dll
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\refint\Media4Valores.dll
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\Media4Valores.pdb
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\Media4Valores.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\00_Aula\Media4Valores\Media4Valores\obj\Debug\net6.0\ref\Media4Valores.dll

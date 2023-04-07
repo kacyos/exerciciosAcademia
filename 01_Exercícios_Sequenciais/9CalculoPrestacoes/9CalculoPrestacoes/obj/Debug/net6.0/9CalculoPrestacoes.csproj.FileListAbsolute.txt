@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\9CalculoPrestacoes.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\9CalculoPrestacoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\9CalculoPrestacoes.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\9CalculoPrestacoes.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\9CalculoPrestacoes.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\bin\Debug\net6.0\9CalculoPrestacoes.exe
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\bin\Debug\net6.0\9CalculoPrestacoes.deps.json
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\bin\Debug\net6.0\9CalculoPrestacoes.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\bin\Debug\net6.0\9CalculoPrestacoes.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\bin\Debug\net6.0\9CalculoPrestacoes.pdb
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\9CalculoPrestacoes.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\refint\9CalculoPrestacoes.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\9CalculoPrestacoes.pdb
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\9CalculoPrestacoes.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios\08ConversorCelsiusFahrenheit\9CalculoPrestacoes\9CalculoPrestacoes\obj\Debug\net6.0\ref\9CalculoPrestacoes.dll
