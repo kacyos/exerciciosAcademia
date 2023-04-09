@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\13CalculoPesoIdeal.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\13CalculoPesoIdeal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\13CalculoPesoIdeal.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\13CalculoPesoIdeal.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\13CalculoPesoIdeal.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\bin\Debug\net6.0\13CalculoPesoIdeal.exe
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\bin\Debug\net6.0\13CalculoPesoIdeal.deps.json
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\bin\Debug\net6.0\13CalculoPesoIdeal.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\bin\Debug\net6.0\13CalculoPesoIdeal.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\bin\Debug\net6.0\13CalculoPesoIdeal.pdb
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\13CalculoPesoIdeal.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\refint\13CalculoPesoIdeal.dll
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\13CalculoPesoIdeal.pdb
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\13CalculoPesoIdeal.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\02_Exercícios_Seleção\13CalculoPesoIdeal\13CalculoPesoIdeal\obj\Debug\net6.0\ref\13CalculoPesoIdeal.dll

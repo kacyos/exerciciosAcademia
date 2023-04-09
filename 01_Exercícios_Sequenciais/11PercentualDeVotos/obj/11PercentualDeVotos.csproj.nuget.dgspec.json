@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios\\11PercentualDeVotos\\11PercentualDeVotos.csproj": {}
+    "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios_Sequenciais\\11PercentualDeVotos\\11PercentualDeVotos.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios\\11PercentualDeVotos\\11PercentualDeVotos.csproj": {
+    "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios_Sequenciais\\11PercentualDeVotos\\11PercentualDeVotos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios\\11PercentualDeVotos\\11PercentualDeVotos.csproj",
+        "projectUniqueName": "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios_Sequenciais\\11PercentualDeVotos\\11PercentualDeVotos.csproj",
         "projectName": "11PercentualDeVotos",
-        "projectPath": "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios\\11PercentualDeVotos\\11PercentualDeVotos.csproj",
+        "projectPath": "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios_Sequenciais\\11PercentualDeVotos\\11PercentualDeVotos.csproj",
         "packagesPath": "C:\\Users\\Cacio\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios\\11PercentualDeVotos\\obj\\",
+        "outputPath": "E:\\Projetos\\C#\\Academia Athos\\01_Exercícios_Sequenciais\\11PercentualDeVotos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

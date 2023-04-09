@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\12CalculoDeRendimentoDoCarro.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\12CalculoDeRendimentoDoCarro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\12CalculoDeRendimentoDoCarro.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\12CalculoDeRendimentoDoCarro.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\12CalculoDeRendimentoDoCarro.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\bin\Debug\net6.0\12CalculoDeRendimentoDoCarro.exe
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\bin\Debug\net6.0\12CalculoDeRendimentoDoCarro.deps.json
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\bin\Debug\net6.0\12CalculoDeRendimentoDoCarro.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\bin\Debug\net6.0\12CalculoDeRendimentoDoCarro.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\bin\Debug\net6.0\12CalculoDeRendimentoDoCarro.pdb
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\12CalculoDeRendimentoDoCarro.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\refint\12CalculoDeRendimentoDoCarro.dll
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\12CalculoDeRendimentoDoCarro.pdb
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\12CalculoDeRendimentoDoCarro.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\01_Exercícios_Sequenciais\12CalculoDeRendimentoDoCarro\12CalculoDeRendimentoDoCarro\obj\Debug\net6.0\ref\12CalculoDeRendimentoDoCarro.dll
