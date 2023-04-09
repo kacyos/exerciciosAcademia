@@ -1,15 +1,15 @@
 ﻿namespace _14CalculoDeDownload {
     internal class Program {
         static void Main(string[] args) {
-            Console.Write("Informe o tamanho do arquivo: ");
-            double tamanhoDoArquivo = double.Parse(Console.ReadLine());
+            Console.Write("Informe o tamanho do arquivo em MB: ");
+            double tamanhoDoArquivo = double.Parse(Console.ReadLine()) * 8;
 
-            Console.Write("Informe a velocidade do Link da internet: ");
-            double velocidadeInternet = double.Parse(Console.ReadLine());
+            Console.Write("Informe a velocidade do Link da internet em MB: ");
+            double velocidadeInternet = double.Parse(Console.ReadLine()) * 8;
 
-            double tempoEstimado = ((tamanhoDoArquivo/ velocidadeInternet / 8) / 60) ;
+            double tempoEstimado = (tamanhoDoArquivo / velocidadeInternet) ;
 
-            Console.WriteLine($"O tempo estimado de download em minutos é: {(int) tempoEstimado} Minutos");
+            Console.WriteLine($"O tempo estimado de download em minutos é: {tempoEstimado.ToString("N2")} Minutos");
         }
     }
 }
