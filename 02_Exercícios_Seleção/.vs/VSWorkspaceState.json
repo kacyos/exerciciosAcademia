@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\01AreaTriangulo\\AreaTriangulo",
+    "\\02ParOuImpar",
+    "\\02ParOuImpar\\02ParOuImpar",
+    "\\Exercicio02"
   ],
+  "SelectedNode": "\\Exercicio02\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
