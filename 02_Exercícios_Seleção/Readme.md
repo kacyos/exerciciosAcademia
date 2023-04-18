@@ -198,7 +198,7 @@ os lados iguais), isoceles (somente 2 lados são iguais) ou escaleno (os 3 lados
     </li>
     <li>
       ✅ 20. Escreva um algoritmo para o jogo de adivinhação do número secreto. O jogador tem 3 chances e recebe dicas do tipo “é maior” ou “é menor”. 
-plus: você pode gerar o número de forma randomica (função random c#).
+      plus: você pode gerar o número de forma randomica (função random c#).
       <p align="center">
         <a href="./Exercicio20/Program.cs">solução</a>
       </p>
@@ -206,8 +206,8 @@ plus: você pode gerar o número de forma randomica (função random c#).
     </li>
     <li>
       ✅ 21. Crie um programa que permita que o usuário selecione uma unidade de medida de entrada (metros, centímetros, polegadas ou pés) e uma unidade de 
-medida de saída usando um menu com o comando switch case. O programa deve, em seguida, pedir ao usuário um valor de entrada e converter esse 
-valor para a unidade de saída selecionada.
+      medida de saída usando um menu com o comando switch case. O programa deve, em seguida, pedir ao usuário um valor de entrada e converter esse 
+      valor para a unidade de saída selecionada.
       <p align="center">
         <a href="./Exercicio21/Program.cs">solução</a>
       </p>
